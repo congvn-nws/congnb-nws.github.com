@@ -1,0 +1,234 @@
+{
+    "data": [
+        {
+            "page_id": 1,
+            "media_id": 5,
+            "clickable_area": [
+                {
+                    "top": "20%",
+                    "left": "0%",
+                    "right": "0%",
+                    "bottom": "20%",
+                    "link_url": "https://xg-dev.pasch.fan/"
+                }
+            ]
+        },
+        {
+            "page_id": 2,
+            "media_id": 6,
+            "clickable_area": [
+                {
+                    "top": "80%",
+                    "left": "20%",
+                    "right": "20%",
+                    "bottom": "0%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/jurin"
+                }
+            ]
+        },
+        {
+            "page_id": 3,
+            "media_id": 7,
+            "clickable_area": [
+                {
+                    "top": "0%",
+                    "left": "25%",
+                    "right": "25%",
+                    "bottom": "70%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/chisa"
+                }
+            ]
+        },
+        {
+            "page_id": 4,
+            "media_id": 8,
+            "clickable_area": [
+                {
+                    "top": "65%",
+                    "left": "10%",
+                    "right": "10%",
+                    "bottom": "10%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/hinata"
+                }
+            ]
+        },
+        {
+            "page_id": 5,
+            "media_id": 9,
+            "clickable_area": [
+                {
+                    "top": "5%",
+                    "left": "10%",
+                    "right": "10%",
+                    "bottom": "75%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/harvey"
+                }
+            ]
+        },
+        {
+            "page_id": 6,
+            "media_id": 10,
+            "clickable_area": [
+                {
+                    "top": "50%",
+                    "left": "20%",
+                    "right": "20%",
+                    "bottom": "25%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/juria"
+                }
+            ]
+        },
+        {
+            "page_id": 7,
+            "media_id": 11,
+            "clickable_area": [
+                {
+                    "top": "85%",
+                    "left": "50%",
+                    "right": "0%",
+                    "bottom": "0%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/maya"
+                }
+            ]
+        },
+        {
+            "page_id": 8,
+            "media_id": 12,
+            "clickable_area": [
+                {
+                    "top": "20%",
+                    "left": "0%",
+                    "right": "90%",
+                    "bottom": "60%",
+                    "link_url": "https://yahoo.co.jp"
+                }
+            ]
+        },
+        {
+            "page_id": 9,
+            "media_id": 13,
+            "clickable_area": []
+        },
+        {
+            "page_id": 10,
+            "media_id": 14,
+            "clickable_area": []
+        },
+        {
+            "page_id": 11,
+            "media_id": 15,
+            "clickable_area": []
+        },
+        {
+            "page_id": 12,
+            "media_id": 16,
+            "clickable_area": []
+        },
+        {
+            "page_id": 13,
+            "media_id": 17,
+            "clickable_area": []
+        },
+        {
+            "page_id": 14,
+            "media_id": 18,
+            "clickable_area": [
+                {
+                    "top": "0%",
+                    "left": "30%",
+                    "right": "30%",
+                    "bottom": "90%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/late"
+                }
+            ]
+        },
+        {
+            "page_id": 15,
+            "media_id": 19,
+            "clickable_area": []
+        },
+        {
+            "page_id": 16,
+            "media_id": 20,
+            "clickable_area": []
+        },
+        {
+            "page_id": 17,
+            "media_id": 21,
+            "clickable_area": []
+        },
+        {
+            "page_id": 18,
+            "media_id": 22,
+            "clickable_area": [
+                {
+                    "top": "40%",
+                    "left": "50%",
+                    "right": "0%",
+                    "bottom": "50%",
+                    "link_url": "https://xg-dev.pasch.fan/bulletin/spring2023/behind"
+                }
+            ]
+        },
+        {
+            "page_id": 19,
+            "media_id": 23,
+            "clickable_area": []
+        },
+        {
+            "page_id": 20,
+            "media_id": 24,
+            "clickable_area": []
+        },
+        {
+            "page_id": 21,
+            "media_id": 25,
+            "clickable_area": []
+        },
+        {
+            "page_id": 22,
+            "media_id": 26,
+            "clickable_area": []
+        },
+        {
+            "page_id": 23,
+            "media_id": 27,
+            "clickable_area": []
+        },
+        {
+            "page_id": 24,
+            "media_id": 28,
+            "clickable_area": []
+        },
+        {
+            "page_id": 25,
+            "media_id": 29,
+            "clickable_area": []
+        },
+        {
+            "page_id": 26,
+            "media_id": 30,
+            "clickable_area": []
+        },
+        {
+            "page_id": 27,
+            "media_id": 31,
+            "clickable_area": []
+        },
+        {
+            "page_id": 28,
+            "media_id": 32,
+            "clickable_area": []
+        },
+        {
+            "page_id": 29,
+            "media_id": 33,
+            "clickable_area": []
+        },
+        {
+            "page_id": 30,
+            "media_id": 34,
+            "clickable_area": []
+        }
+    ]
+}
